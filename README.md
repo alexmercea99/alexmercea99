@@ -49,7 +49,7 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmercea79&repo=Smart Parking)](https://github.com/alexmercea79/Smart_Parking)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmercea79&repo=Smart_Parking)](https://github.com/alexmercea79/Smart_Parking)
 
 <Br>
 <hr>
