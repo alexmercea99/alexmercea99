@@ -66,7 +66,7 @@
 <Br>
   
 <!-- [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexmercea79&show_icons=true&theme=merko)](https://github.com/alexmercea79/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmercea79&theme=gotham)](https://github.com/alexmercea79/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmercea79&theme=gotham&style=compact)](https://github.com/alexmercea79/github-readme-stats)
 
  
 <Br>
@@ -87,5 +87,4 @@
 
 ------
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexmercea79)](https://github.com/anuraghazra/github-readme-stats)
 Last Edited on: 04/08/2021
