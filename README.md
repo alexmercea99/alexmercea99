@@ -65,7 +65,8 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexmercea79&show_icons=true&theme=merko)](https://github.com/alexmercea79/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmercea79&layout=compact&theme=merko)](https://github.com/alexmercea79/github-readme-stats)
+<!-- [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexmercea79&show_icons=true&theme=merko)](https://github.com/alexmercea79/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmercea79&layout=compact&theme=merko)](https://github.com/alexmercea79/github-readme-stats)
 
  
 <Br>
