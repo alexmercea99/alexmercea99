@@ -75,7 +75,7 @@
 <h1>A Little Joke at the End! 🤣</h1>
 <Br>
   
-<img src="https://ibb.co/H7sY1HH"/>
+<img src="https://i.ibb.co/R2mPZDD/wosfjh4e79601.jpg"/>
   
   
   
