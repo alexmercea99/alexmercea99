@@ -66,7 +66,7 @@
 <Br>
   
 <!-- [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexmercea79&show_icons=true&theme=merko)](https://github.com/alexmercea79/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmercea79&theme=dark&hide=javascript&langs_count=8)](https://github.com/alexmercea79/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmercea79&theme=merko&langs_count=8)](https://github.com/alexmercea79/github-readme-stats)
 
  
 <Br>
