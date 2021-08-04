@@ -54,14 +54,14 @@
 <Br>
 <hr>
 <Br>
-<h1>Certifications! 🏆</h1>
+<!-- <h1>Certifications! 🏆</h1>
 <Br>
   
  
 
 <Br>
 <hr>
-<Br>
+<Br> -->
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
