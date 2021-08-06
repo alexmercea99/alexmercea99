@@ -50,7 +50,7 @@
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmercea79&repo=Smart_Parking&show_owner=1)](https://github.com/alexmercea79/Smart_Parking)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmercea79&repo=Self_Driving&show_owner=1)](https://github.com/alexmercea79/Self-Driving_Project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmercea79&repo=Self-Driving_Project&show_owner=1)](https://github.com/alexmercea79/Self-Driving_Project)
 
 <Br>
 <hr>
@@ -88,4 +88,4 @@
 
 ------
   
-Last Edited on: 05/08/2021
+Last Edited on: 06/08/2021
