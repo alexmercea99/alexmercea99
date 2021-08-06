@@ -50,6 +50,7 @@
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmercea79&repo=Smart_Parking&show_owner=1)](https://github.com/alexmercea79/Smart_Parking)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmercea79&repo=Self_Driving&show_owner=1)](https://github.com/alexmercea79/Self-Driving_Project)
 
 <Br>
 <hr>
