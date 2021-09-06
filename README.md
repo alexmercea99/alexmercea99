@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/alexmercea79">Alex Mercea<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/alexmercea99">Alex Mercea<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
@@ -18,7 +18,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/alex-mercea99/" target="blank"><img align="center" src="https://img.shields.io/badge/Alex Mercea-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:alexmercea9@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/alexmercea9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/alexmercea79" target="blank"><img align="center" src="https://img.shields.io/badge/Alex Mercea-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alex-mercea99/" target="blank"><img align="center" src="https://img.shields.io/badge/Alex Mercea-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:alexmercea9@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/alexmercea9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/alexmercea99" target="blank"><img align="center" src="https://img.shields.io/badge/Alex Mercea-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
@@ -49,8 +49,8 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmercea79&repo=Smart_Parking&show_owner=1)](https://github.com/alexmercea79/Smart_Parking)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmercea79&repo=Self-Driving_Project&show_owner=1)](https://github.com/alexmercea79/Self-Driving_Project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmercea99&repo=Smart_Parking&show_owner=1)](https://github.com/alexmercea99/Smart_Parking)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexmercea99&repo=Self-Driving_Project&show_owner=1)](https://github.com/alexmercea99/Self-Driving_Project)
 
 <Br>
 <hr>
@@ -66,8 +66,8 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-<!-- [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexmercea79&show_icons=true&theme=merko)](https://github.com/alexmercea79/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmercea79&theme=gotham&style=compact)](https://github.com/alexmercea79/github-readme-stats)
+<!-- [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexmercea99&show_icons=true&theme=merko)](https://github.com/alexmercea99/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmercea99&theme=gotham&style=compact)](https://github.com/alexmercea99/github-readme-stats)
 
  
 <Br>
